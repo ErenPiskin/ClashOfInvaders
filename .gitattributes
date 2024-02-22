@@ -1,2 +1,2 @@
-*.ShaderLab linguist-detectable=false
+*.shaderlab linguist-detectable=false
 *.csharp linguist-detectable=true
