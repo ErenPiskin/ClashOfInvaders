@@ -2,14 +2,12 @@
 İlk oyun projem olan ve son adımları kalan Hyper-Casual türünde bir mobil oyun yaptım. Oyunun ismini "Clash of Invaders". İlk projem olduğundan dolayı daha çok öğrenmeye odaklandım ve hyper-casual türünde olmayan bir sürü özellik eklemeye çalıştım. Bu sayede diğer oyunlarıma ekleyecek bir sürü özellik öğrendim.
 
 
-![Screenshot 2024-02-15 235217](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/608939fd-3be8-4a92-bae2-e0b95da2ca50)
+![Screenshot 2024-02-15 235217](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/2199c7be-6efb-431c-9d42-5439ffa95f52)
 
-![Screenshot 2024-02-15 235526](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/69875251-4889-4004-8562-9de67c98fe90)
+![Screenshot 2024-02-15 235342](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/e411ca4e-a8e6-4408-b2ec-b4f48a3df69c)
 
-![Screenshot 2024-02-15 235256](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/61e39189-e09b-44df-99ea-7e9687f9595c)
+![Screenshot 2024-02-15 235526](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/2bad5d38-b2b1-43da-82e4-1a433dbf74c3)
 
-![Screenshot 2024-02-15 235342](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/d0895687-e92a-4c3d-bd2d-12902315d2ab)
+![Screenshot 2024-02-15 235352](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/06706a55-6e0c-4c00-aebf-dff604c6a4d7)
 
-![Screenshot 2024-02-15 235352](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/6ee9ae56-8b09-4758-89af-7b32ba4bcc2b)
-
-![Screenshot 2024-02-15 235400](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/5782c979-9ef4-4b9e-9f72-acac8b51bb5e)
+![Screenshot 2024-02-15 235400](https://github.com/ErenPiskin/ClashOfInvaders/assets/89535846/08d91d4d-20cd-4fb4-a67f-1c89018e63e0)
